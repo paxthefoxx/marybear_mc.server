@@ -1,3 +1,3 @@
 # MaryBear's server
 
-welcome to MaryBear's server! Use this git to download all the mods!
+Welcome to MaryBear's server! Use this git to download all the mods!
